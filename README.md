@@ -1,1 +1,3 @@
-# NBA_Play_By_Play
+# NBA play by play data
+
+What can be done with play-by-play data?
